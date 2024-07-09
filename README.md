@@ -9,7 +9,6 @@
 <a href="https://www.facebook.com/profile.php?id=100028859821861&mibextid=ZbWKwL" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mahmudi" height="30" width="40" /></a>
 <a href="https://instagram.com/_mahmudiii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_mahmudiii" height="30" width="40" /></a>
 <a href="https://youtube.com/@mahmuddin14?si=kzPqm2q-NRIyA7m3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mahmuddin" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/mahmuddin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mahmuddin" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
