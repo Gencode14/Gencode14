@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gencode</h1>
 <h3 align="center"> Hanya Programmer Biasa</h3>
 
-- 👨‍💻 You can also check out my portfolio at [https://bayu1s.github.io/](https://bayu1s.github.io/)
-
-- 📫 How to reach me **iswahyudibayu016@gmail.com**
-
-- ⚡ Fun fact **I think I am funny XD**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
